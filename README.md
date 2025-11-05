@@ -27,20 +27,30 @@ Organize components into packages using a Package Diagram for modularity.
 
 # Use Case Diagram:
 
+![UseCaseDiagram1](https://github.com/user-attachments/assets/e8d40255-9cb5-4c1c-97b3-b2b2e84b3143)
 
 
 # Class Diagram:
 
+![class diagram stu](https://github.com/user-attachments/assets/294f6474-de27-4d64-8157-975f8364f053)
 
 # Activity Diagram:
+![ActivityDiagram stu](https://github.com/user-attachments/assets/f7959a34-1fd6-43dd-a88e-0131a728f569)
+
 
 # Package Diagram:
+![PackageDiagramstu](https://github.com/user-attachments/assets/12d553ee-289d-46f5-b82d-93060b51ec29)
+
 
 
 # Communication Diagram:
+![CommunicationDiagram stu](https://github.com/user-attachments/assets/52e0306e-79c1-430e-a96c-ed729acba2f1)
+
 
 
 # Sequence Diagram:
+![SequenceDiagram stu](https://github.com/user-attachments/assets/74f7175e-4de7-49d2-8de6-8a6de4ca973c)
+
 
 
 
